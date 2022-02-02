@@ -1,3 +1,3 @@
 # William Beauvais
 
-![William Beauvais]()
+![William Beauvais](william.jpg)
