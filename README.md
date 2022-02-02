@@ -14,3 +14,5 @@ aucun temps libre
 
 talent incroyable
 
+manque d'inspiration assez élevé
+
