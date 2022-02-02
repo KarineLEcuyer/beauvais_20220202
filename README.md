@@ -16,3 +16,6 @@ talent incroyable
 
 manque d'inspiration assez élevé
 
+![autoportrait](images/autoportrait.gif)
+
+![generique](images/generique.jpeg)
